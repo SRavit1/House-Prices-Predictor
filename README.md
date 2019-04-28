@@ -2,7 +2,7 @@
 
 ## Overview of House Prices Prediction
 
-![alt text](https://www.laoistoday.ie/wp-content/uploads/2019/01/house-graph.jpg "House Prices")
+![alt text](https://github.com/SRavit1/ML-House-Prices-Predictor/blob/master/House%20Prices%20Prediction.png "House Prices")
 
 Predicting house prices, using sample data from Google Colab.
 
