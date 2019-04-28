@@ -1,5 +1,9 @@
 # ML-House-Prices-Predictor
 
+## Overview of House Prices Prediction
+
+![alt text](https://www.laoistoday.ie/wp-content/uploads/2019/01/house-graph.jpg "House Prices")
+
 Predicting house prices, using sample data from Google Colab.
 
 The goal is to predict the price of a house based on 8 parameters, including: 
