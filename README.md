@@ -2,7 +2,7 @@
 
 ## Overview of House Prices Prediction
 
-![alt text](https://github.com/SRavit1/ML-House-Prices-Predictor/blob/master/House%20Prices%20Prediction.png "House Prices")
+![alt text](https://github.com/SRavit1/ML-House-Prices-Predictor/blob/master/House%20Prices%20Prediction.png "Sample Data")
 
 Predicting house prices, using sample data from Google Colab.
 
